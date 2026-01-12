@@ -1,8 +1,8 @@
 ---
-title: "Day 1: Terraform Associate Journey"
+title: "Day 1: Terraform Associate Journey."
 seoTitle: "Starting the Terraform Associate Journey"
 seoDescription: "Start my Terraform journey by building a complete AWS VPC, focusing on hands-on implementation and Infrastructure as Code"
-datePublished: Sat Oct 18 2025 05:04:51 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Nov 11 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmgvtcxoh000002ju8yynenrh
 slug: day-1-terraform-associate-journey
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1760763604323/fff96d20-c025-4fcf-b1df-226f8dcb8123.png
